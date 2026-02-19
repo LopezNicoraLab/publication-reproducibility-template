@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication and this archived version."
+title: "[Insert Manuscript Title Here]"
+authors:
+  - family-names: "Lopez-Nicora"
+    given-names: "Horacio D."
+    affiliation: "Department of Plant Pathology, The Ohio State University"
+    orcid: "https://orcid.org/0000-0002-9672-9589"
+  - family-names: "[Second Author Last Name]"
+    given-names: "[Second Author First Name]"
+    affiliation: "[Affiliation]"
+version: "1.0.0"
+date-released: 2026-02-18
+repository-code: "https://github.com/LopezNicoraLab/[project-repo-name]"
+license: "MIT"
+keywords:
+  - soybean pathology
+  - plant pathology
+  - nematology
+  - epidemiology
+  - applied statistics
+  - reproducible research
