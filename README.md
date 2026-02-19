@@ -28,9 +28,12 @@ DOI: *[Insert DOI when available]*
 ## Repository Structure
 
 data/ → Final cleaned datasets used in analyses
-scripts/ → Final reproducible analysis scripts
-outputs/ → Generated figures and tables
+
 metadata/ → Data dictionary and variable descriptions
+
+scripts/ → Final reproducible analysis scripts
+
+outputs/ → Generated figures and tables
 
 ---
 
