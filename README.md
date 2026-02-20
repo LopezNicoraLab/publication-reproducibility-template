@@ -1,6 +1,8 @@
 # [Insert Manuscript Title]
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Reproducible](https://img.shields.io/badge/reproducible-yes-brightgreen.svg)](#reproducibility)
+[![Maintained by](https://img.shields.io/badge/maintained%20by-LopezNicoraLab-red.svg)](https://github.com/LopezNicoraLab)
 
 ---
 
