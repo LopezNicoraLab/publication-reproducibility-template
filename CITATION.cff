@@ -10,7 +10,7 @@ authors:
     given-names: "[Second Author First Name]"
     affiliation: "[Affiliation]"
 version: "1.0.0"
-date-released: 2026-02-18
+date-released: YYYY-MM-DD [`date-released` should be the date of the public, versioned release (v1.0.0)]
 repository-code: "https://github.com/LopezNicoraLab/[project-repo-name]"
 license: "MIT"
 keywords:
