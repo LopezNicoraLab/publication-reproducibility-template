@@ -63,18 +63,33 @@ Please cite the associated publication and this archived repository (see `CITATI
 
 ---
 
----
+<!-- =========================================================
+TEMPLATE USE INSTRUCTIONS — REMOVE BEFORE PUBLIC RELEASE
+=========================================================
 
-## How to Use This Template
+Before making the repository public, complete the following:
 
-The following steps must be completed before public release:
+1. Click “Use this template” and create the new repository under the LopezNicoraLab organization (not a personal account).
+2. Name the repository clearly to reflect the project (e.g., scn-integrated-management-spatial-models).
+3. Replace all placeholder text with manuscript-specific information.
+4. Format the Associated Publication section as a citation:
+   - Under Review:
+     Author(s).
+     Journal (Under review).
+   - Accepted (before DOI assigned):
+     Author(s).
+     Journal (Accepted; DOI forthcoming).
+   - Published:
+     Author(s). Year.
+     Full manuscript title.
+     Journal. https://doi.org/xxxxx
+5. Do NOT include speculative year.
+6. Do NOT include DOI placeholders.
+7. Update CITATION.cff with full authors and version information.
+8. Add final cleaned datasets (if permitted), scripts, and metadata documentation.
+9. Verify that all figures and tables regenerate from scratch.
+10. Create a GitHub release (e.g., v1.0.0) after manuscript acceptance.
+11. Generate Zenodo DOI and add DOI badge.
+12. Delete this entire instruction block before public release.
 
-1. Click **"Use this template"** to create a new repository.
-2. Create the repository under the **LopezNicoraLab** organization (not a personal account).
-3. Name the repository to clearly reflect the project (e.g., `scn-virulence-2026`).
-4. Replace all bracketed placeholder text with manuscript-specific information.
-5. Update `CITATION.cff` to include the complete author list and release date.
-6. Add final cleaned datasets (if permitted), scripts, and metadata documentation.
-7. Confirm that all scripts regenerate figures and tables from scratch.
-8. Create a GitHub release (e.g., `v1.0.0`) after manuscript submission or acceptance.
-9. Remove this “How to Use This Template” section before public release.
+========================================================= -->
