@@ -8,19 +8,16 @@
 
 ## Associated Publication
 
-**Title:** [Insert manuscript title]  
-**Authors:** [Insert full author list]  
-**Journal:** [Insert journal name or “Under Review”]  
-**Year:** [Insert year]  
-**DOI:** [Insert DOI once available]
+Author(s).  
+Journal (Under review).
 
 ---
 
-## Repository Overview
+## Repository Purpose
 
-This repository contains the final cleaned datasets and reproducible analytical scripts supporting the publication listed above.
+This repository contains cleaned datasets and fully reproducible analytical scripts supporting the associated manuscript.
 
-All figures and tables were generated programmatically from the scripts provided.
+All figures and tables are generated programmatically from the scripts provided.
 
 ---
 
@@ -33,9 +30,6 @@ metadata/ → Data dictionary and variable descriptions
 scripts/ → Final reproducible analysis scripts
 
 outputs/ → Generated figures and tables
-
----
-
 
 ---
 
