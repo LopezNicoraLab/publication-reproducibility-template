@@ -8,8 +8,8 @@
 
 ## Associated Publication
 
-Author(s).  
-Journal (Under review).
+Author(s)  
+**Journal** (*Under review*)
 
 ---
 
